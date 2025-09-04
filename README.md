@@ -22,7 +22,7 @@ El objetivo es calcular:
 | `irradiancia_promedio_solar.png`   | Gráfica temporal completa de irradiancia                                  |
 | `irradiancia_promedio_diaria.png` | Irradiancia promedio horaria (curva de 24 h)                              |
 | `HSP.png`                      | Representación visual de HSP mediante rectángulo de 1000 W/m²              |
-| `main.ipynb` o `.py`           | Script principal con todo el proceso (descarga, análisis, gráficos)       |
+| `irrprom_1.ipynb`         | Script principal con todo el proceso (descarga, análisis, gráficos)       |
 
 ---
 
